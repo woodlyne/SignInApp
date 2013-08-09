@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">RegistrationApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Welcome</string>
+    <string name="title_activity_welcome_page">WelcomePageActivity</string>
+    <string name="title_activity_third">ThirdActivity</string>
+    <string name="title_activity_change_name">ChangeNameActivity</string>
+
+</resources>
